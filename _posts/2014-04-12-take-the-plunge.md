@@ -1,7 +1,6 @@
 ---
 title: Let's Take The Plunge
 layout: post
-group: blog
 ---
 
 I, along with 2 others, have decided to enter the <a title="Rally Website" href="http://www.wackyrally.co.uk"><strong>Barmy to Barcelona</strong> </a>2014, banger rally.
