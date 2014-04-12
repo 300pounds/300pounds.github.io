@@ -80,6 +80,11 @@ section#main nav a.current, section#main nav a:hover {
 	font-size: 1.4em;
 	line-height: 1.6em;
 }
+
+.content ul p, .content ol p, .content p ul, .content p ol {
+	font-size: 1em;
+}
+
 .content ul.article_list {
 	font-size: 1em;
 	line-height: inherit;

@@ -4,25 +4,16 @@ layout: post
 group: blog
 ---
 
-<p>I, along with 2 others, have decided to enter the <a title="Rally Website" href="http://www.wackyrally.co.uk"><strong>Barmy to Barcelona</strong> </a>2014, banger rally.</p>
+I, along with 2 others, have decided to enter the <a title="Rally Website" href="http://www.wackyrally.co.uk"><strong>Barmy to Barcelona</strong> </a>2014, banger rally.
 
 
-<p>Basically the premise is that we buy a car, worth approximately £300, and travel across the Europe to Barcelona.
+Basically the premise is that we buy a car, worth approximately £300, and travel across the Europe to Barcelona.
 Along the way we'll complete challenges, have parties and hopefully not <strong><a title="Charity Sweepstake" href="http://300pounds.wordpress.com/Donate/">break down</a></strong>.
-</p>
 
-<p>
 Today we finally took the plunge and payed the entry fee, so we <a href="http://dictionary.reference.com/browse/sorry" title="Sorry ">Rally</a> are doing this.
-</p>
 
-<p>
-Wish us luck*
-</p>
+Wish us luck [^1]
 
-<p>
 Lou
-</p>
 
-<p>
-*Seriously I'm gonna need it I know NOTHING about cars</big>
-</p>
+[^1]:  Seriously I'm gonna need it I know NOTHING about cars
