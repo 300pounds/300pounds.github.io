@@ -1,7 +1,7 @@
 ---
 title: Hello World
 layout: post
-section: blog
+group: blog
 ---
 
 Foo bar baz.
