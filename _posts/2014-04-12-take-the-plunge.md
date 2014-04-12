@@ -15,6 +15,6 @@ Wish us luck*
 
 Lou
 
-
+<p>
 <p>
 <small>\*Seriously I'm gonna need it I know **NOTHING** about cars</small>
