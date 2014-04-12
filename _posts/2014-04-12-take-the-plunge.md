@@ -17,4 +17,4 @@ Lou
 
 
 
-<small>*Seriously I'm gonna need it I know **NOTHING** about cars</small>
+<small>\*Seriously I'm gonna need it I know **NOTHING** about cars</small>
