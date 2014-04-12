@@ -1,5 +1,5 @@
 ---
-title: Lets Take The Plunge
+title: Let's Take The Plunge
 layout: post
 group: blog
 ---
