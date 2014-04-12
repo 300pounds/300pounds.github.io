@@ -4,23 +4,22 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0.5em 0 0.3em;
 }
 
-h1 { font-size: 3.5em; }
-h2 { font-size: 3.0em; }
-h3 { font-size: 2.8em; }
-h4 { font-size: 2.5em; }
-h5 { font-size: 2.3em; }
-h6 { font-size: 2.2em; }
+h1 { font-size: 3.5em; color: #EFEFEF; }
+h2 { font-size: 3.0em; color: #EFEFEF; }
+h3 { font-size: 2.8em; color: #EFEFEF; }
+h4 { font-size: 2.5em; color: #EFEFEF; }
+h5 { font-size: 2.3em; color: #EFEFEF; }
+h6 { font-size: 2.2em; color: #EFEFEF; }
 
 header {
 	display: block;
 	overflow: hidden;
 	width: 100%;
-	background: #FFF none;
 }
 
 .mainpage header {
-	background: #333 center no-repeat url('/img/home_background_002.jpg');
-	background-size: cover;
+	background: center no-repeat url('/img/home_background_001.jpg');
+	background-size: auto cover;
 }
 
 header h1 {
@@ -28,7 +27,7 @@ header h1 {
 	font-size: 6em;
 	text-align: center;
 	margin: 100px auto 10px;
-	color: #222;
+	color: #EFEFEF;
 }
 
 header a {
@@ -36,22 +35,24 @@ header a {
 }
 
 .mainpage header h1 {
-	color: #FFF;
+	color: #84d85d;
 	margin: 350px auto 40px;
 	text-shadow: #333 0 2px;
 }
 
-
 body, body p {
-	background: #FFF none;
 	font: 1em Georgia, "Bookman Old Style", Times, Serif;
+}
+
+html, body {
+	background: #181818 none;
+	color: #666;
 }
 
 section#main {
 	display: block;
 	width: 800px;
 	margin: 0 auto;
-	background: #FFF none;
 }
 
 section#main nav {
@@ -63,14 +64,14 @@ section#main nav a {
 	display: inline;
 	font-weight: bold;
 	font: 2.4em Kefa, "Bookman Old Style", Georgia, Times, Serif;
-	color: #333;
+	color: #888;
 	padding: 2px;
 	margin: 5px 15px;
 	text-decoration: none;
 }
 
 section#main nav a.current, section#main nav a:hover {
-	border-bottom: 2px solid #333;
+	border-bottom: 2px solid #888;
 	text-decoration: none;
 }
 
@@ -86,9 +87,9 @@ section#main nav a.current, section#main nav a:hover {
 
 .content a {
 	text-decoration: none;
-	color: #16b1c3;
+	color: #BADA55;
 }
-.content a:visited { color: #0d7581; }
+.content a:visited { color: #B0D050; }
 .content a:hover { text-decoration: underline; }
 
 .content img {
@@ -106,7 +107,7 @@ section#main nav a.current, section#main nav a:hover {
     display: block;
 	text-align: center;
 	font-style: italic;
-	color: #666666;
+	color: #333;
 	font-size: 1.2em;
 	margin-top: 0.2em;
 }
@@ -116,7 +117,7 @@ pre, p code {
 	border-radius: 3px;
 	border: 1px solid #999;
 	font: Melno, Monaco, Consolas, Monospace;
-	color: #333;
+	color: #EEE;
 }
 p code {
 	display: inline;
@@ -146,16 +147,16 @@ pre {
 
 .postheader h1 a, .postheader h1 a:visited {
 	text-decoration: none;
-	color: #333;
+	color: #EEE;
 	display: block;
 }
 .postheader h1 a:hover {
 	text-decoration: none;
-	color: #16b1c3;
+	color: #BADA55;
 }
 .postheader h1 a:hover:before {
 	content: "§";
-	color: #16b1c3;
+	color: #BADA55;
 	position: absolute;
 	left: -50px;
 }
@@ -176,7 +177,7 @@ pre {
 	right: 0;
 	bottom: 0;
 	text-align: right;
-	color: #999;
+	color: #252525;
 	background: transparent none;
 }
 
@@ -186,6 +187,6 @@ footer {
 	overflow: hidden;
 	width: 100%;
 	text-align: center;
-	color: #DDD;
+	color: #222;
 	margin: 2em auto;
 }
